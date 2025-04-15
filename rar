@@ -1,1 +1,11 @@
-rra
+Analizuj poniższy kod XML jako layout pliku activity_main.xml w projekcie Android Studio. NIE generuj poprawionego XML. Twoim zadaniem jest utworzenie pełnego pliku MainActivity.java (lub innej klasy aktywności), który pasuje do struktury UI zawartej w tym XML.
+
+Kod XML:
+[WSTAW SWÓJ XML TUTAJ]
+
+Wymagania:
+1. Użyj Android SDK oraz klasy AppCompatActivity.
+2. Zainicjalizuj wszystkie elementy UI z XML w metodzie onCreate() przy użyciu findViewById().
+3. Dodaj przykładową logikę – np. obsługę kliknięcia przycisku, jeśli taki istnieje.
+4. Zakładaj, że wszystkie id są poprawne i nie wymagają zmian.
+5. Odpowiedz wyłącznie kodem Java, bez żadnych dodatkowych komentarzy lub wyjaśnień.
